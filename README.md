@@ -1,6 +1,6 @@
 # HearX
 
-HearX Android Huawei Mobile Application
+HearX Android Mobile Application
 =============================================
 
 This app showcases the following Architecture Components:
